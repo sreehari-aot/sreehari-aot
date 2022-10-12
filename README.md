@@ -1,13 +1,11 @@
-### Hi there 👋
-
-<br />
-
-I'm Sreehari, a passionate Full-stack developer and a tech enthusiast.
-
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sreehari-aot&show_icons=true&theme=gotham" alt="sreehari-aot" />
+
+
+[![@sreeharips's Holopin board](https://holopin.me/sreeharips)](https://holopin.io/@sreeharips)
+
+
 <!--
-**sreehari-aot/sreehari-aot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -20,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
