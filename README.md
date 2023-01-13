@@ -1,5 +1,5 @@
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sreehari-aot&count_private=true&show_icons=true&theme=gotham" alt="sreehari-aot" />
+<p align="center"> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sreehari-aot&count_private=true&show_icons=true&theme=gotham" alt="sreehari-aot" />
 
 
 [![@sreeharips's Holopin board](https://holopin.me/sreeharips)](https://holopin.io/@sreeharips)
